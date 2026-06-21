@@ -21,10 +21,12 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
-      {
-        // Text users will see (example: "Playing /help | Titan Bot").
-        name: "import { logger } from '../utils/logger.js';
+activities: [
+  {
+    name: "⚒️ Building Communities",
+    type: 0,
+  },
+],
 
 export const botConfig = {
   // =========================
@@ -47,10 +49,12 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
-      {
-        // Text users will see (example: "Playing /help | Titan Bot").
-        name: "import { logger } from '../utils/logger.js';
+activities: [
+  {
+    name: "⚒️ Building Communities",
+    type: 0,
+  },
+],
 
 export const botConfig = {
   // =========================
